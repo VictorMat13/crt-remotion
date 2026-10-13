@@ -7,6 +7,7 @@ Victor's CRT motion style for Remotion. It covers real UI and data played throug
 - **Style guide:** [`SKILL.md`](SKILL.md). It works as a Claude Code skill if you drop the repo into `~/.claude/skills/crt-remotion`.
 - **Reference videos:** [`renders/`](renders), 24 MP4s, each named by the script line it covers.
 - **Builder briefs and rules:** [`docs/reels/`](docs/reels).
+- **Prompt bank (reusable build prompts):** [`docs/prompt-bank/`](docs/prompt-bank).
 - **Original style card (Fish 8, Sep 30 2026):** [`references/crt-scope-origin/`](references/crt-scope-origin).
 
 ## Run it
@@ -51,7 +52,7 @@ Render one composition at a time.
 
 The Photoshop macro piece follows the camera language of the first ten seconds of videolancer's ["Creating a 3D Screen in Premiere Pro"](https://www.youtube.com/watch?v=lEHHQ_Rhnkk): tilted macro close-ups, shallow focus, live typing and a click, cuts that rack in. That video is linked here, not included.
 
-## Third-party material (keep this repo private)
+## Third-party material
 
 - **App and product imagery:** each `public/<reel>/SOURCES.md` lists where it came from. This includes Adobe's Photoshop store screenshot, Blackmagic Design press shots, ArtCraft site captures, and official logos.
 - **Past client graphics:** `MtP3LookDifferent` shows Victor's past client brand-deal graphics as examples.
