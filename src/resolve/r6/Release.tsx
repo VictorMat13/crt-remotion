@@ -62,8 +62,14 @@ const QuoteLine: React.FC<{ text: string; start: number; typed: number; coral: R
     if (k > 0 && k < text.length) cuts.add(k);
   };
   add(typed);
-  if (coral) (add(coral[0]), add(coral[1]));
-  if (green) (add(green[0]), add(green[1]));
+  if (coral) {
+    add(coral[0]);
+    add(coral[1]);
+  }
+  if (green) {
+    add(green[0]);
+    add(green[1]);
+  }
   if (caretAt !== null) add(caretAt);
   const ks = [...cuts].sort((a, b) => a - b);
   const out: React.ReactNode[] = [];

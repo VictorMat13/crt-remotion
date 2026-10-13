@@ -64,11 +64,11 @@ export const wrap = (text: string, cols: number): string[] => {
     }
   }
   if (cur) out.push(cur);
-  return out.map((r) => r.replace(/ /g, " "));
+  return out.map((r) => r.replace(/\u00a0/g, " "));
 };
 
 // the radii stay on one row
-const keepUnits = (s: string) => s.replace("(3 / 14 / 42 px),", "(3 / 14 / 42 px),");
+const keepUnits = (s: string) => s.replace("(3 / 14 / 42 px),", "(3\u00a0/\u00a014\u00a0/\u00a042\u00a0px),");
 
 export type Kind = "head" | "rule" | "bullet" | "blank";
 export type DocLine = { kind: Kind; rows: string[]; item?: number };
