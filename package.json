@@ -1,0 +1,29 @@
+{
+  "name": "crt-remotion",
+  "version": "1.0.0",
+  "description": "Victor's CRT Remotion style: the CRT tube kit, the 3D-screen macro rig, and every graphic built with it",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "typecheck": "tsc",
+    "qa": "bash scripts/qa.sh"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.482",
+    "@remotion/google-fonts": "4.0.482",
+    "@remotion/media-utils": "4.0.482",
+    "@remotion/motion-blur": "4.0.482",
+    "@remotion/noise": "4.0.482",
+    "@remotion/paths": "4.0.482",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.482"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  }
+}

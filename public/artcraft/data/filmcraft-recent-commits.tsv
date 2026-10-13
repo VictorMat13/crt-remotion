@@ -1,0 +1,40 @@
+ade0f36	2026-10-13T05:19	Merge pull request #1271 from n-delic/fix-1241-select-all-keyframes
+a469a4a	2026-10-13T05:10	Merge origin/main into #1271
+1267e4e	2026-10-13T05:10	Merge pull request #1304 from LloydNicholson/fix-1293-ycbcr-tiff
+192174c	2026-10-13T05:10	#1304: rustfmt the module list after the merge
+c163983	2026-10-13T05:01	Merge origin/main into #1304
+9418816	2026-10-13T05:01	Merge pull request #1527 from marcoarnulfo/fix/adjustment-layer-transform-replaces-below
+0cfc02a	2026-10-13T04:49	Merge origin/main into #1527: the Normal-blend replace moves into adjustment_layer (after #1327)
+dc5e488	2026-10-13T04:48	Merge pull request #1287 from Silvertree2010/fix/transform-shutter-frame-rate
+1990835	2026-10-13T04:26	#1287: frame_rate in the Sharpen preview-resolution test's FxCtx (after #1361)
+138e972	2026-10-13T04:10	Merge origin/main into #1287 (frame_rate on the adjustment layer's FxCtx after #1327)
+234b345	2026-10-13T04:07	Export: as_chunks in the float-audio oracle test (clippy manual_chunks)
+4678c68	2026-10-13T04:03	Merge pull request #1476 from itrycodinganditsbad/fix-1393
+cc7cec8	2026-10-13T04:03	Merge pull request #1474 from sanyamsingh001/codex/inspectors-selection-oct12
+629e5e9	2026-10-13T04:03	Merge pull request #1472 from txiki739/fix/linux-async-dialog-filters
+7bc739b	2026-10-13T04:03	Merge pull request #1471 from marcoarnulfo/fix/recent-projects
+f2ad4b9	2026-10-13T04:03	Merge pull request #1467 from marcoarnulfo/fix/dock-to-window-edge
+e35a828	2026-10-13T04:03	Merge pull request #1454 from vangel76/refactor-mpegts-simplify-optimize
+eb27d5e	2026-10-13T04:03	Merge pull request #1444 from marcoarnulfo/fix/se-golomb-bounds
+9247622	2026-10-13T04:03	Merge pull request #1442 from MarekSpodBiedry/issue-1360
+5f3b54c	2026-10-13T04:03	Merge pull request #1434 from vangel76/fix-mpegts-ts-resync
+bf96b1d	2026-10-13T04:03	Merge pull request #1431 from vangel76/fix-mpegts-ps-truncated
+524f49d	2026-10-13T04:03	Merge pull request #1548 from marcoarnulfo/fix/mcp-bridge-slow-command
+4f2a4e9	2026-10-13T04:03	Merge pull request #1547 from sanyamsingh001/codex/caption-sidecar-range-oct12
+ba72c89	2026-10-13T04:03	Merge pull request #1534 from HEOJUNFO/fix/settings-text-overflow
+76f423d	2026-10-13T04:03	Merge pull request #1532 from JeremyYao/fix/windows-duplicate-vulkan-driver
+1c7aa21	2026-10-13T04:03	Merge pull request #1526 from marcoarnulfo/fix/timeline-fourth-video-track
+e6ba11e	2026-10-13T04:03	Merge pull request #1518 from sanyamsingh001/codex/ttml-speaker-metadata-oct12
+4e1f673	2026-10-13T04:03	Merge pull request #1516 from jnohclee-rgb/dharma/preserve-subclip-sources
+5f60d98	2026-10-13T04:03	Merge pull request #1512 from CokeRoach/fx-folder-names
+e565d4a	2026-10-13T04:03	Merge pull request #1353 from marcoarnulfo/fix/mask-handles-selection
+aa8d808	2026-10-13T04:03	Merge pull request #1367 from marcoarnulfo/fix/pen-mask-undo-point
+fae6adc	2026-10-13T04:03	Merge pull request #1386 from marcoarnulfo/fix/nested-audio-preview-hash
+bd5261c	2026-10-13T04:03	Merge pull request #1383 from vangel76/fix-1371-list-presets
+2048765	2026-10-13T04:03	Merge pull request #1378 from vangel76/fix-1368-nudge-track
+1ee3f85	2026-10-13T04:03	Merge pull request #1245 from JordyUSA/feat/audio-32bit-export
+37c17d7	2026-10-13T04:03	Merge pull request #1232 from haranishi/fix/1187-drag-clips-new-track
+2ee1734	2026-10-13T04:03	Merge pull request #1224 from liangforstudy/fix-help-link-tooltips
+4046ff8	2026-10-13T04:03	Merge pull request #1223 from webdevtodayjason/fix/ttml-fractional-ticks
+bb2f595	2026-10-13T04:03	Merge pull request #1218 from haranishi/fix/1184-clip-menu-marker
+0f174ab	2026-10-13T04:03	Merge pull request #1257 from AkashBhat14/fix-1249-apv-oracle-skip-old-ffmpeg

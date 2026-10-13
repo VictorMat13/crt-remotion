@@ -1,0 +1,40 @@
+470ea7a	2026-10-12T16:37	Release 0.9.2: install the wasm-bindgen CLI for the web release build
+e2f314f	2026-10-12T15:11	Release 0.9.1: rebuild with the fixed shared release workflow
+9efe753	2026-10-12T09:44	Release prep: 0.9.0
+bfea3d1	2026-10-12T09:30	i18n: Czech entries for the extrusion Front/Bevel/Side/Back Color submenus
+af671f6	2026-10-12T09:22	Merge pull request #987 from Losminek/cs-ui
+84c6281	2026-10-12T09:21	Merge pull request #984 from MarekSpodBiedry/issue-957
+cb59a95	2026-10-12T09:21	Merge pull request #983 from MarekSpodBiedry/issue-974
+61aaf83	2026-10-12T09:08	Fix tests and two behaviours after the community batch
+bbc3a23	2026-10-12T08:29	Merge pull request #928 from storytold/release-pass-azure-secrets
+d1e6aa2	2026-10-12T08:28	clippy: needless borrows at the context_menu calls
+6baff9f	2026-10-12T08:27	Integration fixes for the community batch
+ac37493	2026-10-12T08:24	Merge pull request #873 from pechnikov2026-star/i18n-ru-fr-de
+5f386cc	2026-10-12T08:24	Merge #938 from nanox333/codex/fix-712-character-eyedropper (without the demo screenshot)
+37c4e98	2026-10-12T08:23	Character eyedroppers: the sampling hints go through the catalog
+b691950	2026-10-11T23:57	Character eyedropper test: a compact layout for the demo snapshot
+f28901c	2026-10-12T08:23	Merge pull request #953 from Ni-zav/fix/944-rename-expression-control-s20261012T0915JKT
+50a89c4	2026-10-12T08:23	Merge pull request #130 from storytold/fix/synthetic-modifiers
+2ea7220	2026-10-12T08:22	Merge pull request #916 from pravdomil/claude/composition-maximize-zoom-fit-86627e
+617412b	2026-10-12T08:22	Merge pull request #888 from vangel76/fix-882-viewer-pixel-exact
+6dae516	2026-10-12T08:21	Dialogs: vertical-only modals (#937) on the modal_fit layout
+6b69881	2026-10-12T08:21	Merge pull request #686 from vbasky/fix/659-text-effect-bounds
+b2d0558	2026-10-12T08:21	Merge pull request #462 from storytold/fix/417-viewer-resolution
+bb7f9b4	2026-10-12T08:21	Merge pull request #980 from nanox333/codex/fix-978-project-settings-dialog
+fe439f6	2026-10-12T08:21	Merge pull request #979 from nanox333/codex/fix-958-vector-context-menu
+8dc9189	2026-10-12T08:21	Merge pull request #969 from webdevtodayjason/fix/nested-svg-viewport
+6bbdd8c	2026-10-12T08:21	Merge pull request #954 from SteamSmith/fix/file-urls
+7864ea4	2026-10-12T08:21	Merge pull request #951 from HEOJUNFO/fix-939-noise-mask
+8e6c3e0	2026-10-12T08:21	Merge pull request #950 from Themolx/trim-selected-layers
+bfb282d	2026-10-12T08:21	Merge pull request #937 from nanox333/codex/fix-828-gpu-info-dialog
+af374a9	2026-10-12T08:21	Merge pull request #936 from nanox333/codex/fix-902-essential-graphics-context
+777b59a	2026-10-12T08:21	Merge pull request #935 from aniliashenko/comp-presets
+fbcb5b4	2026-10-12T08:21	Merge pull request #934 from nanox333/codex/fix-910-fullscreen-shortcut
+0d6adb0	2026-10-12T08:21	Merge pull request #930 from aniliashenko/text-edit-from-timeline
+9fa0036	2026-10-12T08:21	Merge pull request #927 from pravdomil/claude/view-go-to-time-fix-1e3c21
+fa8a137	2026-10-12T08:20	Merge pull request #926 from MarekSpodBiedry/issue-908
+302da28	2026-10-12T08:20	Merge pull request #925 from MarekSpodBiedry/issue-909
+ce3e8f1	2026-10-12T08:20	Merge pull request #924 from MarekSpodBiedry/issue-912
+6ace9f7	2026-10-12T08:20	Merge pull request #923 from itrycodinganditsbad/rotating-log
+cc45d65	2026-10-12T08:20	Merge pull request #922 from pravdomil/claude/dialog-focus-on-open
+e2db76e	2026-10-12T08:20	Merge pull request #921 from pravdomil/claude/alt-click-layer-toggles-b7a7a3
